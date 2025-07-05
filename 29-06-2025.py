@@ -115,5 +115,5 @@ for idx, ax in enumerate(axes.flat):
     ax.axis('off')
 
 plt.tight_layout()
-plt.savefig("prediction_29-06-2025.png")
+plt.savefig(r"C:\Users\Neeraj kumar gothi\Desktop\Machine Learning\prediction_29-06-2025.png")
 plt.show()
